@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+//test comment for commit from Nick
 public class RND_IMUReceive extends Activity {
 
     @Override
